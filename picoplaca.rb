@@ -1,7 +1,6 @@
 class Car
 
-	def initialize(plate)
-		@plate = plate
+	def initialize()		
 	end
 
 	def picoplaca(plate = @plate, date = "2016-09-18", time = "18:43:22" )
